@@ -1,6 +1,6 @@
 ### Hi there 👋
-Hi, I am Ayush Bansal from India currently enrolled in undergraduate program in https://www.upes.ac.in/
 
+### Information box:
 - 🌱 I’m currently learning Java and Web development
 - ⚡ Fun fact: The Spanish national anthem has no words
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
