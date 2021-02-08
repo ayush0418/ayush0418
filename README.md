@@ -5,15 +5,15 @@
 - 🔭 I’m currently working on Improving my coding Skills.
 - 🌱 I’m currently learning Java and Web development.
 - 👯 I'm Currently Studying at [University of Petroleum & Energy Studies, Dehradun](https://www.upes.ac.in).<br>
+- 📫 How to reach me: [Ayush Bansal](https://www.linkedin.com/in/ayush-bansal-1661b8190/)
 - ⚡ Fun fact: The Spanish national anthem has no words.
-- 📫 How to reach me: [Ayush Bansal](https://www.linkedin.com/in/ayush-bansal/)
 
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=gotham" alt="Sarthak" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayush0418&show_icons=true&theme=gotham" alt="Ayush" />
 </details>
 
 <!--
