@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Ayush Bansal from India
 
-### Information box:
-- 🌱 I’m currently learning Java and Web development
-- ⚡ Fun fact: The Spanish national anthem has no words
+### I'm a Student || Learner || Developer || 
+
+- 🔭 I’m currently working on Improving my coding Skills.
+- 🌱 I’m currently learning Java and Web development.
+- ⚡ Fun fact: The Spanish national anthem has no words.
+
+
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <!--
