@@ -9,6 +9,8 @@
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **ayush0418/ayush0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
