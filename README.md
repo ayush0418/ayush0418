@@ -9,6 +9,22 @@
 - ⚡ Fun fact: The Spanish national anthem has no words.
 
 
+### Connect with me:
+<a href="https://twitter.com/Ayush0418">
+<img align="left" alt="Ayush | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+<a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/">
+  <img align="left" alt="Ayush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+<a href="https://www.instagram.com/ayush_0418/">
+<img align="left" alt="Ayush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+<a href="https://github.com/ayush0418">
+  <img align="left" alt="Ayush | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+  </a>
+
+
+
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <details>
