@@ -1,4 +1,4 @@
-### Hi there, I'm [Ayush Bansal](https://github.com/ayush0418), from India
+<h1 align="center"> Hi there👋, [I'm Ayush Bansal](https://github.com/ayush0418)</h1>
 
 ### I'm a Student || Learner || Developer || 
 
@@ -7,6 +7,21 @@
 - 👯 I'm Currently Studying at [University of Petroleum & Energy Studies, Dehradun](https://www.upes.ac.in).<br>
 - 📫 How to reach me: [Ayush Bansal](https://www.linkedin.com/in/ayush-bansal-1661b8190/)
 - ⚡ Fun fact: The Spanish national anthem has no words.
+
+
+><h3 align="left"> My GitHub stats: </h3>
+>
+>![Ayush GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0418&theme=midnight-purple&show_icons=true) 
+
+
+><h3 align="left">Most used Languages till now, </h3>
+>
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0418&theme=midnight-purple&layout=compact)](https://github.com/ayush0418/github-readme-stats)
+
+><h3 align="left">Current Streaks : </h3>
+>
+><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0418&theme=midnight-purple" /></p>
+
 
 
 ### Connect with me:
