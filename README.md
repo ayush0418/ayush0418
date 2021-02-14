@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there👋, [I'm Ayush Bansal](https://github.com/ayush0418)</h1>
+<h1 align="center"> Hi there👋, I'm Ayush Bansal</h1>
 
 ### I'm a Student || Learner || Developer || 
 
@@ -23,29 +23,12 @@
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0418&theme=midnight-purple" /></p>
 
 
-
-### Connect with me:
-<a href="https://twitter.com/Ayush0418">
-<img align="left" alt="Ayush | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-<a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/">
-  <img align="left" alt="Ayush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-<a href="https://www.instagram.com/ayush_0418/">
-<img align="left" alt="Ayush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-<a href="https://github.com/ayush0418">
-  <img align="left" alt="Ayush | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  
+<a href="https://www.instagram.com/ayush_0418/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />  </a>
+<a href="https://twitter.com/Ayush0418"><img src = "https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png" alt = "Twitter" border="0"></a>  
 
 
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayush0418&show_icons=true&theme=gotham" alt="Ayush" />
-</details>
 
 <!--
 **ayush0418/ayush0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
