@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  
-<a href="https://www.instagram.com/ayush_0418/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt = "Instagram" border="0"/></a>
+<a href="https://www.instagram.com/ayush_0418/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.png" alt = "Instagram" border="0"/></a>
 <a href="https://twitter.com/Ayush0418"><img src = "https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png" alt = "Twitter" border="0"></a>  
 
 
