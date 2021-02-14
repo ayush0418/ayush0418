@@ -25,8 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  
-<a href="https://www.instagram.com/ayush_0418/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2020%2F10%2FIG10.gif%3Fw%3D450&imgrefurl=https%3A%2F%2Ftechcrunch.com%2F2020%2F10%2F05%2Finstagrams-10th-birthday-release-introduces-a-stories-map-custom-icons-and-more%2F&tbnid=92CAwzTdwgGAfM&vet=12ahUKEwjSgrXVp-nuAhWEVysKHcjVAh8QMygIegUIARDmAQ..i&docid=ulkDqDqop6Yl_M&w=450&h=450&q=instagram%20icon&ved=2ahUKEwjSgrXVp-nuAhWEVysKHcjVAh8QMygIegUIARDmAQ" alt = "Instagram" border="0"/></a>
+<a href="https://www.instagram.com/ayush_0418/"><img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcrunch.com%2F2020%2F10%2F05%2Finstagrams-10th-birthday-release-introduces-a-stories-map-custom-icons-and-more%2F&psig=AOvVaw0cMQUvoQEzIXzyq6S0y24F&ust=1613389919621000&source=images&cd=vfe&ved=2ahUKEwjQ4875p-nuAhWl5nMBHafvB94QjRx6BAgAEAc" alt = "Instagram" border="0"/></a>
 <a href="https://twitter.com/Ayush0418"><img src = "https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png" alt = "Twitter" border="0"></a>  
+
 
 
 
