@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/">
  <img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  
 <a href="https://www.instagram.com/ayush_0418/">
-<img align="left" alt="Ayush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<img alt="Ayush | Instagram" src="https://www.instagram.com/p/BI0BQkfh0ed/media/?size=m" /></a>
 <a href="https://twitter.com/Ayush0418">
 <img src = "https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png" alt = "Twitter" border="0"></a>  
 
