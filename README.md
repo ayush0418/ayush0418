@@ -18,20 +18,20 @@
 >
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0418&theme=midnight-purple&layout=compact)](https://github.com/ayush0418/github-readme-stats)
 
-><h3 align="left">Connect with me:</h3>
 
+><h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Ayush0418">
 <img align="left" alt="Sahil | Twitter" width="40px" src="https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png"/>
-  </a>
+</a>
 
 <a href="https://www.instagram.com/ayush_0418/">
 <img align="left" alt="Sahil | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613586974~hmac=69c16c056050d6b4e4d9cbf27a3d7c3e" />
 
 <a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/">
-  <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613586931~hmac=2468cd9812e0296a455f8f6e699fdb07" />
-  </a>
+<img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613586931~hmac=2468cd9812e0296a455f8f6e699fdb07"/>
+ </a>
+ 
 ><h3 align="left">Current Streaks : </h3>
->
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0418&theme=midnight-purple" /></p>
 
 
