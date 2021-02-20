@@ -30,8 +30,9 @@
 <a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/">
 <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613586931~hmac=2468cd9812e0296a455f8f6e699fdb07"/>
  </a>
+ <br>
  
-><h3 align="left">Current Streaks : </h3>
+## Current Streaks :  </br>
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0418&theme=midnight-purple" /></p>
 
 
