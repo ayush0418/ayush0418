@@ -20,20 +20,27 @@
 
 
 ><h3 align="left">Connect with me:</h3>
+
 <a href="https://twitter.com/Ayush0418">
-<img align="left" alt="Sahil | Twitter" width="40px" src="https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png"/>
+<img align="left" alt="Ayush | Twitter" width="40px" src="https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png"/>
 </a>
 
 <a href="https://www.instagram.com/ayush_0418/">
-<img align="left" alt="Sahil | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613586974~hmac=69c16c056050d6b4e4d9cbf27a3d7c3e" />
+<img align="left" alt="Ayush | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1613897691~hmac=75dcedfed6728f88a6aa481b1a39c78c"/>
 
 <a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/">
-<img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613586931~hmac=2468cd9812e0296a455f8f6e699fdb07"/>
+<img align="left" alt="Ayush | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613897742~hmac=c065d086422539e0319e69bb7d493233"/>
  </a>
- <br>
- 
-## Current Streaks :  </br>
+
+
+><h3 align="left">Current Streak:</h3>
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0418&theme=midnight-purple" /></p>
+
+
+
+
+
+
 
 
 
