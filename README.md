@@ -20,7 +20,8 @@
 
 
 ><h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/Ayush0418">
+>
+><a href="https://twitter.com/Ayush0418">
 <img align="left" alt="Ayush | Twitter" width="40px" src="https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png"/></a>
 
 <a href="https://www.instagram.com/ayush_0418/">
