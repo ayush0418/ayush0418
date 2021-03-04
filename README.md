@@ -21,13 +21,13 @@
 
 ><h3 align="left">Connect with me:</h3>
 >
-><a href="https://twitter.com/Ayush0418" taget="_blank">
+><a href="https://twitter.com/Ayush0418" target="_blank">
 <img align="left" alt="Ayush | Twitter" width="40px" src="https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png"/></a>
 
-<a href="https://www.instagram.com/ayush_0418/" taget="_blank">
+<a href="https://www.instagram.com/ayush_0418/" target="_blank">
 <img align="left" alt="Ayush | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1613897691~hmac=75dcedfed6728f88a6aa481b1a39c78c"/></a>
 
-<a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/" taget="_blank">
+<a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/" target="_blank">
 <img align="left"  alt="Ayush | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613897742~hmac=c065d086422539e0319e69bb7d493233"/></a>
 
 
