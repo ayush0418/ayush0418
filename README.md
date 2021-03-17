@@ -2,7 +2,7 @@
 
 ### I'm a Student || Learner || Developer || 
 
-- 🔭 I’m currently working on HTML and JAVA.
+- 🔭 I’m currently working on Data Structures and JAVA.
 - 🌱 I’m currently learning Java and Web development.
 - 👯 I'm Currently Studying at [University of Petroleum & Energy Studies, Dehradun](https://www.upes.ac.in).<br>
 - 📫 How to reach me: [Ayush Bansal](https://www.linkedin.com/in/ayush-bansal-1661b8190/)
