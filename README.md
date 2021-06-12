@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there👋, I'm Ayush Bansal</h1>
 
-### I'm a Student || Learner || Developer || 
+### I'm a Student || Learner || Coder || Developer || 
 
 - 🔭 I’m currently working on HackerRank.
 - 🌱 I’m currently learning Java and Data Structures.
