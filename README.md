@@ -2,7 +2,7 @@
 
 ### I'm a Student || Learner || Coder || Developer || 
 
-- 🔭 I’m currently working on HackerRank.
+- 🔭 I’m currently working on Android Apps and some competitive problems.
 - 🌱 I’m currently learning Java and Data Structures.
 - 👯 I'm Currently Studying at [University of Petroleum & Energy Studies, Dehradun](https://www.upes.ac.in).<br>
 - 📫 How to reach me: [Ayush Bansal](https://www.linkedin.com/in/ayush-bansal-1661b8190/)
