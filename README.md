@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Android Apps and some competitive problems.
 - 🌱 I’m currently learning Java and Data Structures.
-- 👯 I'm Currently Studying at [University of Petroleum & Energy Studies, Dehradun](https://www.upes.ac.in).<br>
+- 👯 I have completed my Bachelor's in Technology with Specializattion in DevOps from [University of Petroleum & Energy Studies](https://www.upes.ac.in).<br>
 - 📫 How to reach me: [Ayush Bansal](https://www.linkedin.com/in/ayush-bansal-1661b8190/)
 - ⚡ Fun fact: The Spanish national anthem has no words.
 
@@ -34,9 +34,12 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="Intellij Idea" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1731687803736498176/lVYF07pa_400x400.png" alt="Intellij Idea" width="40" height="40"/> </a>
  <a href=  "https://www.eclipse.org/eclipseide/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30z0YWy3BwF2Qr67iVmiNYRkKNftKe9wVWA&usqp=CAU" alt="Eclipse" width="40" height="40"/> </a> 
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkOMm2c1AdVpZwlAZNGmReYtcAlD6bCgloA&usqp=CAU" width="40" height="40"/> </a>
+ <a href="https://kubernetes.io/" target="_blank"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" width="40" height="40" /> </a>
+ <a href="https://docs.docker.com/" target="_blank"> <img src ="https://i.pinimg.com/736x/0e/5a/ea/0e5aea52771d1897850b0a5f6547cc35.jpg" width="40" height="40" /> </a>
+ <a href="https://angularjs.org/" target="_blank"> <img src ="https://miro.medium.com/v2/resize:fit:588/1*15CYVZdpsxir8KLdxEZytg.png" width="40" height="40" /> </a>
  </p>
  
 <h3 align="left">Connect with me:</h3>
@@ -44,11 +47,8 @@
 ><a href="https://twitter.com/Ayush0418" target="_blank">
 <img align="left" alt="Ayush | Twitter" width="40px" src="https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png"/></a>
 
-<a href="https://www.instagram.com/ayush_0418/" target="_blank">
-<img align="left" alt="Ayush | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1613897691~hmac=75dcedfed6728f88a6aa481b1a39c78c"/></a>
-
 <a href="https://www.linkedin.com/in/ayush-bansal-1661b8190/" target="_blank">
-<img align="left"  alt="Ayush | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613897742~hmac=c065d086422539e0319e69bb7d493233"/></a>
+<img align="left"  alt="Ayush | LinkedIn" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZBFj4kvCmeevlNecUXGQTbA0uxpiTYa9RU9xrhrMSWy-uXrlyaXVUSzvIH8qF31GR6E&usqp=CAU" width="40" height="40"/></a>
  
 
 
